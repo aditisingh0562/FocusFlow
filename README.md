@@ -8,8 +8,7 @@
 
 - ⏱️ Pomodoro Timer with short and long breaks  
 - ✅ Task Manager: Add, complete, and delete tasks  
-- 💾 Saves data in browser using localStorage  
-- 🌙 Light & Dark mode (if implemented)  
+- 💾 Saves data in browser using localStorage   
 - 📱 Responsive frontend using HTML/CSS/JavaScript  
 - 🔌 Backend powered by Node.js and Express (optional)
 
