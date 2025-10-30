@@ -10,7 +10,7 @@
 - ✅ Task Manager: Add, complete, and delete tasks  
 - 💾 Saves data in browser using localStorage   
 - 📱 Responsive frontend using HTML/CSS/JavaScript  
-- 🔌 Backend powered by Node.js and Express (optional)
+- 🔌 Backend powered by Node.js and Express
 
 ---
 
